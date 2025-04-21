@@ -1,4 +1,4 @@
-K = int(input(''))
+K = int(input())
 possible = False
 
 for x in range(K // 5 + 1):
